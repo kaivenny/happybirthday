@@ -4,7 +4,7 @@ html {
 
 body {
   font-family: 'zh-cn' ;
-  src: url('/zh-cn.ttf') format('truetype');
+  src : "./zh-cn.ttf" ;
   margin: 0;
 }
 

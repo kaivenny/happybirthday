@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: 'zh-cn;
+  font-family: 'zh-cn' ;
   src: url('/zh-cn.ttf') format('truetype');
   margin: 0;
 }

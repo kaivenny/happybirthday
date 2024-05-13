@@ -1,13 +1,13 @@
 // trigger to play music in the background with sweetalert
 window.addEventListener('load', () => {
     Swal.fire({
-        title: 'Do you want to play music in the background?',
+        title: 'Klik Iyawh atau pantatmu kelap kelip🤠',
         icon: 'warning',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
         cancelButtonColor: '#d33',
-        confirmButtonText: 'Yes',
-        cancelButtonText: 'No',
+        confirmButtonText: 'Iyawh',
+        cancelButtonText: 'Moh',
     }).then((result) => {
         if (result.isConfirmed) {
             document.querySelector('.song').play();

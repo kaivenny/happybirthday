@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: 'zh-cn' ;
+  font-family: 'zh-cn-ttf' ;
   src : "./zh-cn.ttf" ;
   margin: 0;
 }

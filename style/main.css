@@ -3,7 +3,8 @@ html {
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'zh-cn;
+  src: url('/zh-cn.ttf') format('truetype');
   margin: 0;
 }
 
